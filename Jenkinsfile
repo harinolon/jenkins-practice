@@ -1,0 +1,3 @@
+node {
+   echo "HELLO SIMPLE JENKINS PIPELINE"
+}
